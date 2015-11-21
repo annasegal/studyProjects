@@ -1,4 +1,4 @@
-(function(){
+(function(){ //IIFE
 
 var checkAge2 = function(age) { //Function Expression
   age = age || 10;
